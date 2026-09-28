@@ -24,3 +24,6 @@
 1. 安装依赖：
    ```bash
    pip install flask pandas matplotlib
+<img width="1362" height="664" alt="image" src="https://github.com/user-attachments/assets/d7b9345e-8202-4184-8352-8a3a52643b66" />
+<img width="1378" height="666" alt="image" src="https://github.com/user-attachments/assets/42a4d8b0-c1c8-4dc9-8966-af82de55bdbb" />
+
